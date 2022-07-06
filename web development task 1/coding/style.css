@@ -1,0 +1,50 @@
+body {
+    background-color: peachpuff;
+  }
+  div {
+    margin: 3px;
+  }
+  table {
+    width: 70%;
+    margin: 3px;
+  }
+  th {
+    text-align: center;
+    color: red;
+    background-color: yellow;
+    border: 1px solid black;
+  }
+  tr {
+    background-color: cyan;
+  }
+  #username {
+    background-color: lightgreen;
+    border: 1px solid black;
+    margin: 3px;
+  }
+  #pswd {
+    background-color: lightgreen;
+    border: 1px solid black;
+    margin: 3px;
+  }
+  #address {
+    background-color: lightgreen;
+    border: 1px solid black;
+    margin: 3px;
+  }
+  #age {
+    background-color: lightgreen;
+    border: 1px solid black;
+    margin: 3px;
+  }
+  #file {
+    background-color: lightgreen;
+    border: 1px solid black;
+    margin: 3px;
+  }
+  #button {
+    background-color: lightgreen;
+    border: 1px solid black;
+    margin: 3px;
+  }
+  
